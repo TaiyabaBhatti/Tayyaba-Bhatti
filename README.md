@@ -1,6 +1,11 @@
-## Hi, I'm Tayyaba Bhatti :wave:
-
-### A Passinate Undergraduate Software Engineer.:woman_student: 
-### I'm learning java basics and DSA.
+# Hi! I'm Tayyaba Bhatti.👋
+### An undergraduate Software Engineer.👩‍🎓
+* ✒️  I'm learning Java.
+* 📬    Reach me at taiyababhattii@gmail.com
+* 🎾    Sports: Tennis
+* 🌱    Interested in Web development and Ethical Hacking.
+* 
+# Languages
+### Java
 
 
