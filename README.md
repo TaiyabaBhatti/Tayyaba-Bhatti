@@ -4,7 +4,7 @@
 * 📬    Reach me at taiyababhattii@gmail.com
 * 🎾    Sports: Tennis
 * 🌱    Interested in Web development and Ethical Hacking.
-* 
+
 # Languages
 ### Java
 
